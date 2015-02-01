@@ -1,0 +1,18 @@
+{
+  "name": "linemap",
+  "version": "1.0.0",
+  "description": "linemap makes conversions between character offsets and line numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "line",
+    "offset"
+  ],
+  "author": "joshwnj",
+  "license": "MIT",
+  "dependencies": {
+    "line-offsets": "^1.0.0"
+  }
+}
